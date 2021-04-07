@@ -1,0 +1,9 @@
+1. Home page code
+
+2. Message CTA code
+
+3. Smiley code
+
+4. Last seen code
+
+5. Hide last seen code
