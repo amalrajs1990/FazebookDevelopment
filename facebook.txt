@@ -7,3 +7,5 @@
 4. Last seen code
 
 5. Hide last seen code
+
+6. Video message code
